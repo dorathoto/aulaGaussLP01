@@ -1,8 +1,0 @@
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\obj\Debug\Lucas.LogProg.csproj.AssemblyReference.cache
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\obj\Debug\Lucas.LogProg.csproj.SuggestedBindingRedirects.cache
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\obj\Debug\Lucas.LogProg.csproj.CoreCompileInputs.cache
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\bin\Debug\Lucas.LogProg.exe.config
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\bin\Debug\Lucas.LogProg.exe
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\bin\Debug\Lucas.LogProg.pdb
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\obj\Debug\Lucas.LogProg.exe
-E:\Gauss\Lógica\Lucas.LogProg\Lucas.LogProg\obj\Debug\Lucas.LogProg.pdb
